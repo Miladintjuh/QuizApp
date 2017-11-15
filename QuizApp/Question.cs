@@ -8,12 +8,14 @@ namespace QuizApp
     {
         public string Text { get; set; }
         public string Answer { get; set; }
-
+        public int Difficulty { get; set; }
+        public string Category { get; set; }
         public Question()
         {
             Text = "";
             Answer = "";
-
+            Difficulty = 0;
+            Category = "";
         }
 
 

@@ -21,11 +21,14 @@ namespace QuizApp
 
         public new void Display()
         {
+            base.Display();
             for (int i = 0; i < Choices.Count; i++)
             {
+
                 int ChoiceNumber = i + 1;
                 Console.WriteLine(ChoiceNumber + ": " + Choices[i]);
             }
+            Console.WriteLine("------------------------------------------");
         }
 
     }
