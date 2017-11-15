@@ -23,7 +23,7 @@ namespace QuizApp
         }
 
 
-        public void display()
+        public void Display()
         {
             Console.WriteLine(Text);
         }

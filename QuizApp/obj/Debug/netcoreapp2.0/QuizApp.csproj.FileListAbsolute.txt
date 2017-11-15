@@ -1,0 +1,11 @@
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\bin\Debug\netcoreapp2.0\QuizApp.deps.json
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\bin\Debug\netcoreapp2.0\QuizApp.runtimeconfig.json
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\bin\Debug\netcoreapp2.0\QuizApp.runtimeconfig.dev.json
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\bin\Debug\netcoreapp2.0\QuizApp.dll
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\bin\Debug\netcoreapp2.0\QuizApp.pdb
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\obj\Debug\netcoreapp2.0\QuizApp.csprojResolveAssemblyReference.cache
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\obj\Debug\netcoreapp2.0\QuizApp.csproj.CoreCompileInputs.cache
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\obj\Debug\netcoreapp2.0\QuizApp.AssemblyInfoInputs.cache
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\obj\Debug\netcoreapp2.0\QuizApp.AssemblyInfo.cs
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\obj\Debug\netcoreapp2.0\QuizApp.dll
+D:\Users\Rebano\Documents\visual studio 2017\Projects\QuizApp\QuizApp\obj\Debug\netcoreapp2.0\QuizApp.pdb
