@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "d:\\users\\rebano\\documents\\visual studio 2017\\Projects\\QuizApp\\QuizApp\\QuizApp.csproj",
+      "projectUniqueName": "D:\\Users\\Rebano\\Documents\\visual studio 2017\\Projects\\QuizApp\\QuizApp\\QuizApp.csproj",
       "projectName": "QuizApp",
-      "projectPath": "d:\\users\\rebano\\documents\\visual studio 2017\\Projects\\QuizApp\\QuizApp\\QuizApp.csproj",
+      "projectPath": "D:\\Users\\Rebano\\Documents\\visual studio 2017\\Projects\\QuizApp\\QuizApp\\QuizApp.csproj",
       "packagesPath": "C:\\Users\\Rebano\\.nuget\\packages\\",
-      "outputPath": "d:\\users\\rebano\\documents\\visual studio 2017\\Projects\\QuizApp\\QuizApp\\obj\\",
+      "outputPath": "D:\\Users\\Rebano\\Documents\\visual studio 2017\\Projects\\QuizApp\\QuizApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

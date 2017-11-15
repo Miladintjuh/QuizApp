@@ -6,7 +6,12 @@ namespace QuizApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Question first = new Question();
+            first.Text = "Who was the inventor of Java?" ;
+            first.Answer = "James Gosling";
+
+            Console.ReadLine();
         }
     }
 }
