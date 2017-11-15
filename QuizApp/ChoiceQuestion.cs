@@ -6,6 +6,15 @@ namespace QuizApp
 {
     class ChoiceQuestion : Question
     {
+        public ChoiceQuestion()
+        {
+            Text = "";
+            Answer = "";
+            Difficulty = 0;
+            Category = "";
+        }
+
+
         private List<string> Choices = new List<string>();
 
         public void AddChoice(string Choice, bool Correct)
